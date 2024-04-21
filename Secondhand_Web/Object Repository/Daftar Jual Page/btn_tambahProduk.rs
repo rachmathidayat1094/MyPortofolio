@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_tambahProduk</name>
+   <tag></tag>
+   <elementGuidId>2d05a085-09d3-4712-a093-2c8f237763af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-plus.display-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>74cb959f-076d-46aa-8a7c-5a04c37ce560</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-plus display-3</value>
+      <webElementGuid>a297297c-2125-4eab-8d48-40ae0e36796c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row my-5&quot;]/div[@class=&quot;col-12 col-lg-9 mt-5 mt-lg-0&quot;]/div[@class=&quot;row g-4&quot;]/div[@class=&quot;col-12 col-lg-4&quot;]/a[@class=&quot;new-product-button h-100 w-100 border-2 rounded-4 text-black-50 d-flex align-items-center justify-content-center&quot;]/div[@class=&quot;text-center&quot;]/i[@class=&quot;bi bi-plus display-3&quot;]</value>
+      <webElementGuid>02ed168e-c28d-4e5a-87a7-8e4be8eb1d62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/i</value>
+      <webElementGuid>ad0ed0b7-9c23-48b7-b9b7-70b139ab5399</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

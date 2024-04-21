@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "70111AF3FC1E756BCBDE80D7F7B8315C",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.Login",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}
