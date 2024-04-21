@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "859B29AFFFB26A277D128D5C376833AD",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.Notification",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
