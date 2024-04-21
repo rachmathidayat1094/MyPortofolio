@@ -1,0 +1,2631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Cucumber tes suites" time="451.772" tests="1" failures="0" errors="0">
+   <testsuite name="Cucumber tes suites" tests="1" failures="0" errors="0" time="451.772" skipped="0" timestamp="21-04-2024T16:39:17" hostname="WINDOWS 10 - DESKTOP-PODGA3M" id="Test Suites/Cucumber tes suites">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\data backup\\desktop\\binar\\portofolio\\web\\Secondhand_Web\\Reports\\20240421_163908\\Cucumber tes suites\\20240421_163908"/>
+         <property name="logFiles" value="D:\\data backup\\desktop\\binar\\portofolio\\web\\Secondhand_Web\\Reports\\20240421_163908\\Cucumber tes suites\\20240421_163908\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="WINDOWS 10 - DESKTOP-PODGA3M"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.2.212"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.8.100"/>
+         <property name="sessionId" value="464544e6c77c8fe794e2173cc2805d15"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Cucumber/Cucumber" time="451.46" classname="Test Cases/Cucumber/Cucumber" status="PASSED">
+         <system-out><![CDATA[21-04-2024T16:39:17 - [TEST_CASE][PASSED] - Test Cases/Cucumber/Cucumber: Test Cases/Cucumber/Cucumber
+
+21-04-2024T16:39:17 - [TEST_STEP][PASSED] - Start listener action : beforeTestCase: null
+
+21-04-2024T16:39:17 - [TEST_STEP][PASSED] - addDefaultPackages(): null
+
+21-04-2024T16:39:17 - [TEST_STEP][PASSED] - runWithCucumberRunner(Runner): Run with 'Runner' was passed
+
+21-04-2024T16:39:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:39:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:39:23 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/'
+
+21-04-2024T16:39:23 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:39:23 - [MESSAGE][PASSED] - Browser is scrolled to position x = 400, y = 400
+
+21-04-2024T16:39:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:23 - [MESSAGE][PASSED] - Object 'Object Repository/Category Product Page/btn_hobby_category' is present
+
+21-04-2024T16:39:24 - [MESSAGE][PASSED] - Object 'Object Repository/Category Product Page/btn_hobby_category' is present
+
+21-04-2024T16:39:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Category Product Page/btn_hobby_category' is clicked on
+
+21-04-2024T16:39:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:25 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Seach Product Page/div_products' successfully
+
+21-04-2024T16:39:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:25 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/div_products' is present
+
+21-04-2024T16:39:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:25 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/div_description_product' is present
+
+21-04-2024T16:39:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:25 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/div_products' is present
+
+21-04-2024T16:39:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:26 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/div_description_product' is present
+
+21-04-2024T16:39:26 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:39:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:39:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:39:28 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/'
+
+21-04-2024T16:39:28 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:39:28 - [MESSAGE][PASSED] - Browser is scrolled to position x = 400, y = 400
+
+21-04-2024T16:39:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:29 - [MESSAGE][PASSED] - Object 'Object Repository/Category Product Page/btn_venicle_category' is present
+
+21-04-2024T16:39:29 - [MESSAGE][PASSED] - Object 'Object Repository/Category Product Page/btn_venicle_category' is present
+
+21-04-2024T16:39:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Category Product Page/btn_venicle_category' is clicked on
+
+21-04-2024T16:39:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:30 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Seach Product Page/div_products' successfully
+
+21-04-2024T16:39:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:30 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/div_products' is present
+
+21-04-2024T16:39:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:30 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/div_description_product' is present
+
+21-04-2024T16:39:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:31 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/div_products' is present
+
+21-04-2024T16:39:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:31 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/div_description_product' is present
+
+21-04-2024T16:39:31 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:39:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:39:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:39:33 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/'
+
+21-04-2024T16:39:33 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:39:34 - [MESSAGE][PASSED] - Text 'motor' is set on object 'Object Repository/Seach Product Page/input_search'
+
+21-04-2024T16:39:34 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Seach Product Page/input_search'
+
+21-04-2024T16:39:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:35 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/btn_all' is present
+
+21-04-2024T16:39:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:35 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/title_browse_categories' is present
+
+21-04-2024T16:39:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:36 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/btn_all' is present
+
+21-04-2024T16:39:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:36 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/title_browse_categories' is present
+
+21-04-2024T16:39:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:36 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Seach Product Page/title_browse_categories' successfully
+
+21-04-2024T16:39:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:37 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/div_products' is present
+
+21-04-2024T16:39:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:37 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/div_description_product' is present
+
+21-04-2024T16:39:37 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/div_products' is present
+
+21-04-2024T16:39:37 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/div_description_product' is present
+
+21-04-2024T16:39:38 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:39:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:39:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:39:40 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/'
+
+21-04-2024T16:39:40 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:39:40 - [MESSAGE][PASSED] - Text '##' is set on object 'Object Repository/Seach Product Page/input_search'
+
+21-04-2024T16:39:41 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Seach Product Page/input_search'
+
+21-04-2024T16:39:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:41 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/btn_all' is present
+
+21-04-2024T16:39:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:42 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/title_browse_categories' is present
+
+21-04-2024T16:39:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:42 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/btn_all' is present
+
+21-04-2024T16:39:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:42 - [MESSAGE][PASSED] - Object 'Object Repository/Seach Product Page/title_browse_categories' is present
+
+21-04-2024T16:39:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:42 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Seach Product Page/title_browse_categories' successfully
+
+21-04-2024T16:39:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:43 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Seach Product Page/btn_all' successfully
+
+21-04-2024T16:39:43 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:39:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:39:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:39:45 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:39:45 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:39:46 - [MESSAGE][PASSED] - Text 'test@testing.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:39:47 - [MESSAGE][PASSED] - Text 'testing' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:39:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:39:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:49 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/btn_my_product' is present
+
+21-04-2024T16:39:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:49 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:39:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:49 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/btn_my_product' is present
+
+21-04-2024T16:39:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:50 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:39:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Sold Products Page/btn_my_product' is clicked on
+
+21-04-2024T16:39:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:51 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/btn_sold_product' is present
+
+21-04-2024T16:39:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:51 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/btn_favorite' is present
+
+21-04-2024T16:39:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:51 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/btn_sold_product' is present
+
+21-04-2024T16:39:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:51 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/btn_favorite' is present
+
+21-04-2024T16:39:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Sold Products Page/btn_sold_product' is clicked on
+
+21-04-2024T16:39:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:52 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/img_sold_product' is present
+
+21-04-2024T16:39:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:53 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/div_sold_description' is present
+
+21-04-2024T16:39:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:53 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/img_sold_product' is present
+
+21-04-2024T16:39:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:53 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/div_sold_description' is present
+
+21-04-2024T16:39:53 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:39:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:39:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:39:55 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:39:55 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:39:56 - [MESSAGE][PASSED] - Text 'test@testing.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:39:57 - [MESSAGE][PASSED] - Text 'testing' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:39:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:39:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:59 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/btn_my_product' is present
+
+21-04-2024T16:39:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:59 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:39:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:59 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/btn_my_product' is present
+
+21-04-2024T16:39:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:39:59 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:40:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Sold Products Page/btn_my_product' is clicked on
+
+21-04-2024T16:40:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:01 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/btn_sold_product' is present
+
+21-04-2024T16:40:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:01 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/btn_favorite' is present
+
+21-04-2024T16:40:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:01 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/btn_sold_product' is present
+
+21-04-2024T16:40:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:01 - [MESSAGE][PASSED] - Object 'Object Repository/Sold Products Page/btn_favorite' is present
+
+21-04-2024T16:40:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Sold Products Page/btn_sold_product' is clicked on
+
+21-04-2024T16:40:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:02 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Sold Products Page/img_sold_fluid' located by 'By.xpath: //div[2]/div/div/div/img' is not present after '30' second(s)
+
+21-04-2024T16:40:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:03 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Sold Products Page/text_not_have_sold_product' located by 'By.xpath: //*[(text() = 'Belum ada produkmu yang diminati nih, sabar ya rejeki nggak kemana kok' or . = 'Belum ada produkmu yang diminati nih, sabar ya rejeki nggak kemana kok')]' is not present after '30' second(s)
+
+21-04-2024T16:40:03 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:40:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:40:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:40:05 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_up'
+
+21-04-2024T16:40:05 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:40:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:06 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_name' is present
+
+21-04-2024T16:40:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:06 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_email' is present
+
+21-04-2024T16:40:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:06 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_password' is present
+
+21-04-2024T16:40:07 - [MESSAGE][PASSED] - Text 'rhidayat' is set on object 'Object Repository/Register page/TextBox_name'
+
+21-04-2024T16:40:08 - [MESSAGE][PASSED] - Text 'rhidayat590@gmail.com' is set on object 'Object Repository/Register page/TextBox_email'
+
+21-04-2024T16:40:08 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Register page/TextBox_password'
+
+21-04-2024T16:40:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Register page/btn_daftar' is clicked on
+
+21-04-2024T16:40:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:10 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:40:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:11 - [MESSAGE][PASSED] - Object 'Object Repository/Notification page/btn_notification' is present
+
+21-04-2024T16:40:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:11 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:40:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:11 - [MESSAGE][PASSED] - Object 'Object Repository/Notification page/btn_notification' is present
+
+21-04-2024T16:40:11 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+21-04-2024T16:40:11 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:40:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:40:14 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_up'
+
+21-04-2024T16:40:14 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:40:14 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:15 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_name' is present
+
+21-04-2024T16:40:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:15 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_email' is present
+
+21-04-2024T16:40:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:15 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_password' is present
+
+21-04-2024T16:40:16 - [MESSAGE][PASSED] - Text 'rhidayat182@gmail.com' is set on object 'Object Repository/Register page/TextBox_email'
+
+21-04-2024T16:40:17 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Register page/TextBox_password'
+
+21-04-2024T16:40:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Register page/btn_daftar' is clicked on
+
+21-04-2024T16:40:17 - [MESSAGE][PASSED] - Attribute 'validationMessage' of object 'Object Repository/Register page/TextBox_name' is: 'Please fill out this field.'
+
+21-04-2024T16:40:18 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:40:18 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:40:18 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:40:19 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_up'
+
+21-04-2024T16:40:20 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:40:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:20 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_name' is present
+
+21-04-2024T16:40:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:20 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_email' is present
+
+21-04-2024T16:40:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:21 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_password' is present
+
+21-04-2024T16:40:21 - [MESSAGE][PASSED] - Text 'Testing1234' is set on object 'Object Repository/Register page/TextBox_name'
+
+21-04-2024T16:40:22 - [MESSAGE][PASSED] - Text 'Testing123' is set on object 'Object Repository/Register page/TextBox_password'
+
+21-04-2024T16:40:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Register page/btn_daftar' is clicked on
+
+21-04-2024T16:40:23 - [MESSAGE][PASSED] - Attribute 'validationMessage' of object 'Object Repository/Register page/TextBox_email' is: 'Please fill out this field.'
+
+21-04-2024T16:40:23 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:40:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:40:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:40:27 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:40:27 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:40:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:27 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:40:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:27 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:40:28 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:40:29 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:40:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:40:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:31 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:40:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:31 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:40:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:31 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:40:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:32 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:40:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+21-04-2024T16:40:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:40:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:40:34 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:40:34 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:40:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:34 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:40:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:34 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:40:35 - [MESSAGE][PASSED] - Text 'cekla@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:40:36 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:40:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:40:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:37 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/alert_invalid' is present
+
+21-04-2024T16:40:37 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+21-04-2024T16:40:37 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:40:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:40:39 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:40:39 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:40:40 - [MESSAGE][PASSED] - Text 'test@testing.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:40:41 - [MESSAGE][PASSED] - Text 'testing' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:40:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:40:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:42 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:40:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:43 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:40:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:43 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_account' is present
+
+21-04-2024T16:40:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:43 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_account' is present
+
+21-04-2024T16:40:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_account' is clicked on
+
+21-04-2024T16:40:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:44 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_keluar' is present
+
+21-04-2024T16:40:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:44 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_keluar' is present
+
+21-04-2024T16:40:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_keluar' is clicked on
+
+21-04-2024T16:40:45 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+21-04-2024T16:40:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:40:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:40:47 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org'
+
+21-04-2024T16:40:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:47 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:40:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:47 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:40:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:48 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/TextArea_search' is present
+
+21-04-2024T16:40:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:48 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/TextArea_search' is present
+
+21-04-2024T16:40:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:48 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Homepage/bottom_element' successfully
+
+21-04-2024T16:40:49 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+21-04-2024T16:40:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/text_nextPage' is clicked on
+
+21-04-2024T16:40:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:50 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_masuk' is present
+
+21-04-2024T16:40:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:51 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_masuk' is present
+
+21-04-2024T16:40:51 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+21-04-2024T16:40:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:40:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:40:53 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org'
+
+21-04-2024T16:40:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:53 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Homepage/bottom_element' successfully
+
+21-04-2024T16:40:54 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+21-04-2024T16:40:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/text_nextPage' is clicked on
+
+21-04-2024T16:40:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:55 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:40:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:56 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:40:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:56 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/TextArea_search' is present
+
+21-04-2024T16:40:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:56 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/TextArea_search' is present
+
+21-04-2024T16:40:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:40:56 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Homepage/bottom_element' successfully
+
+21-04-2024T16:40:57 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+21-04-2024T16:40:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/text_previousPage' is clicked on
+
+21-04-2024T16:40:58 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+21-04-2024T16:40:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:40:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:41:00 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:41:00 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:41:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:00 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:41:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:01 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:41:01 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:41:02 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:41:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:41:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:03 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:41:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:04 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:41:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:04 - [MESSAGE][PASSED] - Object 'Object Repository/Notification page/btn_notification' is present
+
+21-04-2024T16:41:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:04 - [MESSAGE][PASSED] - Object 'Object Repository/Notification page/btn_notification' is present
+
+21-04-2024T16:41:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Notification page/btn_notification' is clicked on
+
+21-04-2024T16:41:05 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:41:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:41:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:41:07 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:41:07 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:41:07 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:07 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:41:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:08 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:41:08 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:41:09 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:41:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:41:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:11 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:41:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:11 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:41:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:12 - [MESSAGE][PASSED] - Object 'Object Repository/Notification page/btn_notification' is present
+
+21-04-2024T16:41:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:12 - [MESSAGE][PASSED] - Object 'Object Repository/Notification page/btn_notification' is present
+
+21-04-2024T16:41:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Notification page/btn_notification' is clicked on
+
+21-04-2024T16:41:13 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:41:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:41:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:41:15 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:41:15 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:41:16 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:41:17 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:41:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:41:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:19 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:41:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:19 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:41:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:19 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:41:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:20 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:41:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_profile' is clicked on
+
+21-04-2024T16:41:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_accountInfo' is clicked on
+
+21-04-2024T16:41:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:21 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/text_accountInfo' is present
+
+21-04-2024T16:41:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:21 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/text_accountInfo' is present
+
+21-04-2024T16:41:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:22 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:41:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:22 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:41:22 - [MESSAGE][PASSED] - File 'D:/data backup/desktop/binar/portofolio/web/Secondhand_Web/Asset/milkcat.PNG' sent to object: 'Object Repository/Account Info Page/btn_profilePicture'
+
+21-04-2024T16:41:23 - [MESSAGE][PASSED] - Text 'cek' is set on object 'Object Repository/Account Info Page/TextArea_nama'
+
+21-04-2024T16:41:24 - [MESSAGE][PASSED] - All options with index in [2] are selected on object 'Object Repository/Account Info Page/dropdown_kota'
+
+21-04-2024T16:41:25 - [MESSAGE][PASSED] - Text 'edit automate alamat' is set on object 'Object Repository/Account Info Page/TextArea_alamat'
+
+21-04-2024T16:41:25 - [MESSAGE][PASSED] - Text '081234567890' is set on object 'Object Repository/Account Info Page/TextArea_noHP'
+
+21-04-2024T16:41:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Account Info Page/btn_submit' is clicked on
+
+21-04-2024T16:41:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:28 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:41:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:29 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:41:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:29 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/TextArea_search' is present
+
+21-04-2024T16:41:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:29 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/TextArea_search' is present
+
+21-04-2024T16:41:30 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:41:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:41:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:41:33 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:41:33 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:41:34 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:41:34 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:41:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:41:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:36 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:41:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:36 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:41:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:37 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:41:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:37 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:41:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_daftarJual' is clicked on
+
+21-04-2024T16:41:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Daftar Jual Page/btn_edit' is clicked on
+
+21-04-2024T16:41:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:39 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/text_accountInfo' is present
+
+21-04-2024T16:41:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:39 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/text_accountInfo' is present
+
+21-04-2024T16:41:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:39 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:41:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:40 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:41:40 - [MESSAGE][PASSED] - File 'D:/data backup/desktop/binar/portofolio/web/Secondhand_Web/Asset/milkcat.PNG' sent to object: 'Object Repository/Account Info Page/btn_profilePicture'
+
+21-04-2024T16:41:41 - [MESSAGE][PASSED] - Text 'cek' is set on object 'Object Repository/Account Info Page/TextArea_nama'
+
+21-04-2024T16:41:42 - [MESSAGE][PASSED] - All options with index in [2] are selected on object 'Object Repository/Account Info Page/dropdown_kota'
+
+21-04-2024T16:41:42 - [MESSAGE][PASSED] - Text 'edit automate alamat' is set on object 'Object Repository/Account Info Page/TextArea_alamat'
+
+21-04-2024T16:41:43 - [MESSAGE][PASSED] - Text '081234567890' is set on object 'Object Repository/Account Info Page/TextArea_noHP'
+
+21-04-2024T16:41:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Account Info Page/btn_submit' is clicked on
+
+21-04-2024T16:41:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:46 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:41:46 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:46 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:41:46 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:46 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/TextArea_search' is present
+
+21-04-2024T16:41:46 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:47 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/TextArea_search' is present
+
+21-04-2024T16:41:47 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:41:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:41:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:41:48 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_up'
+
+21-04-2024T16:41:49 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:41:49 - [MESSAGE][PASSED] - Text 'Rachmat Hidayat573' is set on object 'Object Repository/Register page/TextBox_name'
+
+21-04-2024T16:41:50 - [MESSAGE][PASSED] - Text 'rhidayat573@gmail.com' is set on object 'Object Repository/Register page/TextBox_email'
+
+21-04-2024T16:41:51 - [MESSAGE][PASSED] - Text 'testing' is set on object 'Object Repository/Register page/TextBox_password'
+
+21-04-2024T16:41:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Register page/btn_daftar' is clicked on
+
+21-04-2024T16:41:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_jual' is clicked on
+
+21-04-2024T16:41:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:53 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/text_accountInfo' is present
+
+21-04-2024T16:41:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:54 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/text_accountInfo' is present
+
+21-04-2024T16:41:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:54 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:41:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:41:54 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:41:54 - [MESSAGE][PASSED] - File 'D:/data backup/desktop/binar/portofolio/web/Secondhand_Web/Asset/milkcat.PNG' sent to object: 'Object Repository/Account Info Page/btn_profilePicture'
+
+21-04-2024T16:41:55 - [MESSAGE][PASSED] - Text 'cek' is set on object 'Object Repository/Account Info Page/TextArea_nama'
+
+21-04-2024T16:41:56 - [MESSAGE][PASSED] - All options with index in [2] are selected on object 'Object Repository/Account Info Page/dropdown_kota'
+
+21-04-2024T16:41:57 - [MESSAGE][PASSED] - Text 'edit automate alamat' is set on object 'Object Repository/Account Info Page/TextArea_alamat'
+
+21-04-2024T16:41:57 - [MESSAGE][PASSED] - Text '081234567890' is set on object 'Object Repository/Account Info Page/TextArea_noHP'
+
+21-04-2024T16:42:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Account Info Page/btn_submit' is clicked on
+
+21-04-2024T16:42:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:03 - [MESSAGE][PASSED] - Object 'Object Repository/Post product page/img_formImage' is present
+
+21-04-2024T16:42:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:03 - [MESSAGE][PASSED] - Object 'Object Repository/Post product page/img_formImage' is present
+
+21-04-2024T16:42:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:03 - [MESSAGE][PASSED] - Object 'Object Repository/Post product page/TextBox_namaProduk' is present
+
+21-04-2024T16:42:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:04 - [MESSAGE][PASSED] - Object 'Object Repository/Post product page/TextBox_namaProduk' is present
+
+21-04-2024T16:42:04 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:42:04 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:42:04 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:42:06 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:42:06 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:42:07 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:42:07 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:42:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:42:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:09 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:42:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:09 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:42:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:10 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:42:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:10 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:42:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_profile' is clicked on
+
+21-04-2024T16:42:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_accountInfo' is clicked on
+
+21-04-2024T16:42:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:11 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/text_accountInfo' is present
+
+21-04-2024T16:42:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:12 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/text_accountInfo' is present
+
+21-04-2024T16:42:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:12 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:42:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:12 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:42:13 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Account Info Page/TextArea_nama'
+
+21-04-2024T16:42:14 - [MESSAGE][PASSED] - All options with index in [2] are selected on object 'Object Repository/Account Info Page/dropdown_kota'
+
+21-04-2024T16:42:14 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Account Info Page/TextArea_alamat'
+
+21-04-2024T16:42:15 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Account Info Page/TextArea_noHP'
+
+21-04-2024T16:42:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Account Info Page/btn_submit' is clicked on
+
+21-04-2024T16:42:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:16 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/text_accountInfo' is present
+
+21-04-2024T16:42:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:16 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/text_accountInfo' is present
+
+21-04-2024T16:42:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:16 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:42:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:17 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:42:17 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:42:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:42:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:42:19 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:42:19 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:42:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:19 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:42:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:19 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:42:20 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:42:21 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:42:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:42:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:22 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:42:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:23 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:42:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:23 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:42:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:23 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:42:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_jual' is clicked on
+
+21-04-2024T16:42:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:24 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_terbitkan' is present
+
+21-04-2024T16:42:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:25 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_terbitkan' is present
+
+21-04-2024T16:42:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:25 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_preview' is present
+
+21-04-2024T16:42:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:25 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_preview' is present
+
+21-04-2024T16:42:26 - [MESSAGE][PASSED] - Text 'beat' is set on object 'Object Repository/Post Product Page/TextBox_namaProduk'
+
+21-04-2024T16:42:26 - [MESSAGE][PASSED] - Text '1000' is set on object 'Object Repository/Post Product Page/TextBox_hargaProduk'
+
+21-04-2024T16:42:27 - [MESSAGE][PASSED] - All options with value '2' are selected in object 'Object Repository/Post Product Page/select_pilihKategori' 
+
+21-04-2024T16:42:28 - [MESSAGE][PASSED] - Text 'barang bekas' is set on object 'Object Repository/Post Product Page/TextBox_deskripsiProduk'
+
+21-04-2024T16:42:28 - [MESSAGE][PASSED] - File 'D:/data backup/desktop/binar/portofolio/web/Secondhand_Web/Asset/sapi.jpg' sent to object: 'Object Repository/Post Product Page/img_formImage'
+
+21-04-2024T16:42:29 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+21-04-2024T16:42:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Post Product Page/btn_terbitkan' is clicked on
+
+21-04-2024T16:42:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:33 - [MESSAGE][PASSED] - Object 'Object Repository/Product Details Page/btn_delete' is present
+
+21-04-2024T16:42:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:33 - [MESSAGE][PASSED] - Object 'Object Repository/Product Details Page/btn_delete' is present
+
+21-04-2024T16:42:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:34 - [MESSAGE][PASSED] - Object 'Object Repository/Product Details Page/btn_edit' is present
+
+21-04-2024T16:42:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:34 - [MESSAGE][PASSED] - Object 'Object Repository/Product Details Page/btn_edit' is present
+
+21-04-2024T16:42:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+21-04-2024T16:42:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:42:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:42:36 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:42:37 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:42:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:37 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:42:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:37 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:42:38 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:42:38 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:42:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:42:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:40 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:42:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:40 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:42:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:41 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:42:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:41 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:42:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_jual' is clicked on
+
+21-04-2024T16:42:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:42 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_terbitkan' is present
+
+21-04-2024T16:42:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:42 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_terbitkan' is present
+
+21-04-2024T16:42:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:42 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_preview' is present
+
+21-04-2024T16:42:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:43 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_preview' is present
+
+21-04-2024T16:42:43 - [MESSAGE][PASSED] - Text 'beat' is set on object 'Object Repository/Post Product Page/TextBox_namaProduk'
+
+21-04-2024T16:42:44 - [MESSAGE][PASSED] - Text '1000' is set on object 'Object Repository/Post Product Page/TextBox_hargaProduk'
+
+21-04-2024T16:42:45 - [MESSAGE][PASSED] - All options with value '2' are selected in object 'Object Repository/Post Product Page/select_pilihKategori' 
+
+21-04-2024T16:42:45 - [MESSAGE][PASSED] - Text 'barang bekas' is set on object 'Object Repository/Post Product Page/TextBox_deskripsiProduk'
+
+21-04-2024T16:42:46 - [MESSAGE][PASSED] - File 'D:/data backup/desktop/binar/portofolio/web/Secondhand_Web/Asset/sapi.jpg' sent to object: 'Object Repository/Post Product Page/img_formImage'
+
+21-04-2024T16:42:47 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+21-04-2024T16:42:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Post Product Page/btn_preview' is clicked on
+
+21-04-2024T16:42:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:53 - [MESSAGE][PASSED] - Object 'Object Repository/Preview Page/btn_terbitkan' is present
+
+21-04-2024T16:42:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:53 - [MESSAGE][PASSED] - Object 'Object Repository/Preview Page/btn_terbitkan' is present
+
+21-04-2024T16:42:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:53 - [MESSAGE][PASSED] - Object 'Object Repository/Preview Page/btn_edit' is present
+
+21-04-2024T16:42:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:53 - [MESSAGE][PASSED] - Object 'Object Repository/Preview Page/btn_edit' is present
+
+21-04-2024T16:42:53 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+21-04-2024T16:42:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:42:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:42:57 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:42:57 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:42:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:57 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:42:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:42:57 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:42:58 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:42:59 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:42:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:42:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:00 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:43:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:01 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:43:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:01 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:43:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:01 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:43:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_jual' is clicked on
+
+21-04-2024T16:43:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:02 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_terbitkan' is present
+
+21-04-2024T16:43:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:03 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_terbitkan' is present
+
+21-04-2024T16:43:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:03 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_preview' is present
+
+21-04-2024T16:43:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:03 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_preview' is present
+
+21-04-2024T16:43:04 - [MESSAGE][PASSED] - Text 'beat' is set on object 'Object Repository/Post Product Page/TextBox_namaProduk'
+
+21-04-2024T16:43:04 - [MESSAGE][PASSED] - Text '1000' is set on object 'Object Repository/Post Product Page/TextBox_hargaProduk'
+
+21-04-2024T16:43:05 - [MESSAGE][PASSED] - All options with label 'Pilih Kategori' are selected in object 'Object Repository/Post Product Page/select_pilihKategori' 
+
+21-04-2024T16:43:06 - [MESSAGE][PASSED] - Text 'barang bekas' is set on object 'Object Repository/Post Product Page/TextBox_deskripsiProduk'
+
+21-04-2024T16:43:06 - [MESSAGE][PASSED] - File 'D:/data backup/desktop/binar/portofolio/web/Secondhand_Web/Asset/sapi.jpg' sent to object: 'Object Repository/Post Product Page/img_formImage'
+
+21-04-2024T16:43:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Post Product Page/btn_terbitkan' is clicked on
+
+21-04-2024T16:43:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:10 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/text_errorMessage_kategori' is present
+
+21-04-2024T16:43:10 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+21-04-2024T16:43:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:43:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:43:13 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:43:13 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:43:13 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:13 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:43:13 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:13 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:43:14 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:43:15 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:43:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:43:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:16 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:43:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:16 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:43:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:17 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:43:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:17 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:43:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_daftarJual' is clicked on
+
+21-04-2024T16:43:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:18 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/btn_edit' is present
+
+21-04-2024T16:43:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:18 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/btn_edit' is present
+
+21-04-2024T16:43:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:19 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/btn_productCard' is present
+
+21-04-2024T16:43:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:19 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/btn_productCard' is present
+
+21-04-2024T16:43:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Daftar Jual Page/btn_productCard' is clicked on
+
+21-04-2024T16:43:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:20 - [MESSAGE][PASSED] - Object 'Object Repository/Product Details Page/btn_delete' is present
+
+21-04-2024T16:43:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:20 - [MESSAGE][PASSED] - Object 'Object Repository/Product Details Page/btn_delete' is present
+
+21-04-2024T16:43:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:20 - [MESSAGE][PASSED] - Object 'Object Repository/Product Details Page/btn_edit' is present
+
+21-04-2024T16:43:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:21 - [MESSAGE][PASSED] - Object 'Object Repository/Product Details Page/btn_edit' is present
+
+21-04-2024T16:43:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Product Details Page/btn_edit' is clicked on
+
+21-04-2024T16:43:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:22 - [MESSAGE][PASSED] - Object 'Object Repository/Edit product page/btn_terbitkan' is present
+
+21-04-2024T16:43:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:22 - [MESSAGE][PASSED] - Object 'Object Repository/Edit product page/btn_terbitkan' is present
+
+21-04-2024T16:43:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:22 - [MESSAGE][PASSED] - Object 'Object Repository/Edit product page/btn_preview' is present
+
+21-04-2024T16:43:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:22 - [MESSAGE][PASSED] - Object 'Object Repository/Edit product page/btn_preview' is present
+
+21-04-2024T16:43:23 - [MESSAGE][PASSED] - Text 'capybara' is set on object 'Object Repository/Edit product page/TextBox_namaProduk'
+
+21-04-2024T16:43:24 - [MESSAGE][PASSED] - Text '2000' is set on object 'Object Repository/Edit product page/TextBox_hargaProduk'
+
+21-04-2024T16:43:24 - [MESSAGE][PASSED] - All options with value '3' are selected in object 'Object Repository/Edit product page/select_pilihKategori' 
+
+21-04-2024T16:43:25 - [MESSAGE][PASSED] - Text 'capybara dijual' is set on object 'Object Repository/Edit product page/TextBox_deskripsiProduk'
+
+21-04-2024T16:43:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Edit product page/btn_hapusImage' is clicked on
+
+21-04-2024T16:43:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:28 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Edit product page/btn_hapusImage' located by 'By.xpath: //*[@class = 'btn-close btn-close-white position-absolute top-0 start-100 translate-middle']' is not present after '30' second(s)
+
+21-04-2024T16:43:28 - [MESSAGE][PASSED] - File 'D:/data backup/desktop/binar/portofolio/web/Secondhand_Web/Asset/sapi.jpg' sent to object: 'Object Repository/Edit product page/img_formImage'
+
+21-04-2024T16:43:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Edit product page/btn_terbitkan' is clicked on
+
+21-04-2024T16:43:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+21-04-2024T16:43:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:43:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:43:34 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:43:35 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:43:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:35 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:43:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:35 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:43:36 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:43:36 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:43:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:43:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:38 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:43:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:39 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:43:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:39 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:43:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:39 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:43:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_daftarJual' is clicked on
+
+21-04-2024T16:43:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:40 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/btn_edit' is present
+
+21-04-2024T16:43:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:41 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/btn_edit' is present
+
+21-04-2024T16:43:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:41 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/btn_productCard' is present
+
+21-04-2024T16:43:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:41 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/btn_productCard' is present
+
+21-04-2024T16:43:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Daftar Jual Page/btn_productCard' is clicked on
+
+21-04-2024T16:43:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:42 - [MESSAGE][PASSED] - Object 'Object Repository/Product Details Page/btn_delete' is present
+
+21-04-2024T16:43:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:42 - [MESSAGE][PASSED] - Object 'Object Repository/Product Details Page/btn_delete' is present
+
+21-04-2024T16:43:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:43 - [MESSAGE][PASSED] - Object 'Object Repository/Product Details Page/btn_edit' is present
+
+21-04-2024T16:43:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:43 - [MESSAGE][PASSED] - Object 'Object Repository/Product Details Page/btn_edit' is present
+
+21-04-2024T16:43:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Product Details Page/btn_edit' is clicked on
+
+21-04-2024T16:43:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:44 - [MESSAGE][PASSED] - Object 'Object Repository/Edit product page/btn_terbitkan' is present
+
+21-04-2024T16:43:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:44 - [MESSAGE][PASSED] - Object 'Object Repository/Edit product page/btn_terbitkan' is present
+
+21-04-2024T16:43:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:44 - [MESSAGE][PASSED] - Object 'Object Repository/Edit product page/btn_preview' is present
+
+21-04-2024T16:43:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:45 - [MESSAGE][PASSED] - Object 'Object Repository/Edit product page/btn_preview' is present
+
+21-04-2024T16:43:45 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Edit product page/TextBox_namaProduk'
+
+21-04-2024T16:43:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Edit product page/btn_terbitkan' is clicked on
+
+21-04-2024T16:43:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:49 - [MESSAGE][PASSED] - Object 'Object Repository/Edit product page/text_errorMessage_namaProduk' is present
+
+21-04-2024T16:43:49 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+21-04-2024T16:43:49 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:43:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:43:51 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:43:51 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:43:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:51 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:43:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:51 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:43:52 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:43:53 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:43:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:43:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:55 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:43:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:55 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:43:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:55 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:43:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:55 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:43:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_daftarJual' is clicked on
+
+21-04-2024T16:43:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:56 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/text_daftarJualSaya' is present
+
+21-04-2024T16:43:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:57 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/text_daftarJualSaya' is present
+
+21-04-2024T16:43:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:57 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/btn_edit' is present
+
+21-04-2024T16:43:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:57 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/btn_edit' is present
+
+21-04-2024T16:43:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:58 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/btn_productCard' is present
+
+21-04-2024T16:43:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:43:58 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/btn_productCard' is present
+
+21-04-2024T16:43:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Daftar Jual Page/btn_productCard' is clicked on
+
+21-04-2024T16:43:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Product Details Page/btn_delete' is clicked on
+
+21-04-2024T16:43:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:00 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/text_daftarJualSaya' is present
+
+21-04-2024T16:44:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:00 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/text_daftarJualSaya' is present
+
+21-04-2024T16:44:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:00 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/btn_edit' is present
+
+21-04-2024T16:44:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:01 - [MESSAGE][PASSED] - Object 'Object Repository/Daftar Jual Page/btn_edit' is present
+
+21-04-2024T16:44:01 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:44:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:44:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:44:03 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:44:03 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:44:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:03 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:44:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:04 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:44:04 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:44:05 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:44:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:44:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:07 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:44:07 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:07 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:44:07 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:08 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:44:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:08 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:44:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:08 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Homepage/card_product_10' successfully
+
+21-04-2024T16:44:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/card_product_10' is clicked on
+
+21-04-2024T16:44:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:11 - [MESSAGE][PASSED] - Object 'Object Repository/Product Details Page/img_product' is present
+
+21-04-2024T16:44:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:12 - [MESSAGE][PASSED] - Object 'Object Repository/Product Details Page/img_product' is present
+
+21-04-2024T16:44:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:12 - [MESSAGE][PASSED] - Object 'Object Repository/Preview page/btn_tertarik' is present
+
+21-04-2024T16:44:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:12 - [MESSAGE][PASSED] - Object 'Object Repository/Preview page/btn_tertarik' is present
+
+21-04-2024T16:44:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:12 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Preview page/btn_delete' located by 'By.xpath: /html[1]/body[1]/section[@class="pt-5 mt-5"]/section[@class="container my-5"]/div[@class="row"]/div[@class="col-4"]/div[@class="card p-2 rounded-4 shadow border-0"]/div[@class="card-body"]/a[@class="btn btn-lg btn-danger fs-6 rounded-4 w-100 py-3 fw-bold mt-3"]' is not present after '30' second(s)
+
+21-04-2024T16:44:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:13 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Preview page/btn_delete' located by 'By.xpath: /html[1]/body[1]/section[@class="pt-5 mt-5"]/section[@class="container my-5"]/div[@class="row"]/div[@class="col-4"]/div[@class="card p-2 rounded-4 shadow border-0"]/div[@class="card-body"]/a[@class="btn btn-lg btn-danger fs-6 rounded-4 w-100 py-3 fw-bold mt-3"]' is not present after '30' second(s)
+
+21-04-2024T16:44:13 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:44:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:44:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:44:15 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_up'
+
+21-04-2024T16:44:15 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:44:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:15 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/btn_daftar' is present
+
+21-04-2024T16:44:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:15 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/btn_daftar' is present
+
+21-04-2024T16:44:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:16 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_name' is present
+
+21-04-2024T16:44:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:16 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_name' is present
+
+21-04-2024T16:44:17 - [MESSAGE][PASSED] - Text 'rhidayat' is set on object 'Object Repository/Register page/TextBox_name'
+
+21-04-2024T16:44:17 - [MESSAGE][PASSED] - Text 'rhidayat73@mail.com' is set on object 'Object Repository/Register page/TextBox_email'
+
+21-04-2024T16:44:18 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Register page/TextBox_password'
+
+21-04-2024T16:44:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Register page/btn_daftar' is clicked on
+
+21-04-2024T16:44:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:20 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:44:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:20 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:44:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:21 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:44:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:21 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:44:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_profile' is clicked on
+
+21-04-2024T16:44:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_accountInfo' is clicked on
+
+21-04-2024T16:44:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:22 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:44:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:23 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:44:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:23 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/btn_back' is present
+
+21-04-2024T16:44:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:23 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/btn_back' is present
+
+21-04-2024T16:44:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Account Info Page/btn_back' is clicked on
+
+21-04-2024T16:44:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:24 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:44:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:24 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:44:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:25 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/card_product' is present
+
+21-04-2024T16:44:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:25 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/card_product' is present
+
+21-04-2024T16:44:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:25 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Homepage/card_product' successfully
+
+21-04-2024T16:44:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/card_product' is clicked on
+
+21-04-2024T16:44:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:26 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/text_sellerInfo' is present
+
+21-04-2024T16:44:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:27 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/text_sellerInfo' is present
+
+21-04-2024T16:44:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:27 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is present
+
+21-04-2024T16:44:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:27 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is present
+
+21-04-2024T16:44:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is clicked on
+
+21-04-2024T16:44:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:28 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/TextBox_offer' is present
+
+21-04-2024T16:44:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:28 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/TextBox_offer' is present
+
+21-04-2024T16:44:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:29 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_kirim' is present
+
+21-04-2024T16:44:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:29 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_kirim' is present
+
+21-04-2024T16:44:30 - [MESSAGE][PASSED] - Text '1200' is set on object 'Object Repository/Buyer Transaction Page/TextBox_offer'
+
+21-04-2024T16:44:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Buyer Transaction Page/btn_kirim' is clicked on
+
+21-04-2024T16:44:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:31 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:44:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:31 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:44:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:31 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/btn_submit' is present
+
+21-04-2024T16:44:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:31 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/btn_submit' is present
+
+21-04-2024T16:44:32 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:44:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:44:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:44:33 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_up'
+
+21-04-2024T16:44:33 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:44:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:34 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/btn_daftar' is present
+
+21-04-2024T16:44:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:34 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/btn_daftar' is present
+
+21-04-2024T16:44:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:34 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_name' is present
+
+21-04-2024T16:44:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:35 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_name' is present
+
+21-04-2024T16:44:35 - [MESSAGE][PASSED] - Text 'rhidayat' is set on object 'Object Repository/Register page/TextBox_name'
+
+21-04-2024T16:44:36 - [MESSAGE][PASSED] - Text 'rhidayat220@mail.com' is set on object 'Object Repository/Register page/TextBox_email'
+
+21-04-2024T16:44:37 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Register page/TextBox_password'
+
+21-04-2024T16:44:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Register page/btn_daftar' is clicked on
+
+21-04-2024T16:44:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:38 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:44:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:39 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:44:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:39 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:44:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:39 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:44:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_profile' is clicked on
+
+21-04-2024T16:44:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_accountInfo' is clicked on
+
+21-04-2024T16:44:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:41 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:44:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:41 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:44:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:41 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/btn_submit' is present
+
+21-04-2024T16:44:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:42 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/btn_submit' is present
+
+21-04-2024T16:44:42 - [MESSAGE][PASSED] - File 'D:/data backup/desktop/binar/portofolio/web/Secondhand_Web/Asset/milkcat.PNG' sent to object: 'Object Repository/Account Info Page/btn_profilePicture'
+
+21-04-2024T16:44:43 - [MESSAGE][PASSED] - Text 'rhidayat1' is set on object 'Object Repository/Account Info Page/TextArea_nama'
+
+21-04-2024T16:44:43 - [MESSAGE][PASSED] - All options with value '4' are selected in object 'Object Repository/Account Info Page/dropdown_kota' 
+
+21-04-2024T16:44:44 - [MESSAGE][PASSED] - Text 'jalan kelengkeng' is set on object 'Object Repository/Account Info Page/TextArea_alamat'
+
+21-04-2024T16:44:45 - [MESSAGE][PASSED] - Text '0819222' is set on object 'Object Repository/Account Info Page/TextArea_noHP'
+
+21-04-2024T16:44:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Account Info Page/btn_submit' is clicked on
+
+21-04-2024T16:44:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:50 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:44:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:50 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:44:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:50 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/card_product' is present
+
+21-04-2024T16:44:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:50 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/card_product' is present
+
+21-04-2024T16:44:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:51 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Homepage/card_product' successfully
+
+21-04-2024T16:44:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/card_product' is clicked on
+
+21-04-2024T16:44:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:52 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/text_sellerInfo' is present
+
+21-04-2024T16:44:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:52 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/text_sellerInfo' is present
+
+21-04-2024T16:44:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:52 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is present
+
+21-04-2024T16:44:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:52 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is present
+
+21-04-2024T16:44:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is clicked on
+
+21-04-2024T16:44:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:53 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/TextBox_offer' is present
+
+21-04-2024T16:44:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:54 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/TextBox_offer' is present
+
+21-04-2024T16:44:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:54 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_kirim' is present
+
+21-04-2024T16:44:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:54 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_kirim' is present
+
+21-04-2024T16:44:55 - [MESSAGE][PASSED] - Text '1200' is set on object 'Object Repository/Buyer Transaction Page/TextBox_offer'
+
+21-04-2024T16:44:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Buyer Transaction Page/btn_kirim' is clicked on
+
+21-04-2024T16:44:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:56 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/text_sellerInfo' is present
+
+21-04-2024T16:44:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:56 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/text_sellerInfo' is present
+
+21-04-2024T16:44:57 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:44:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:44:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:44:59 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_up'
+
+21-04-2024T16:44:59 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:44:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:44:59 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/btn_daftar' is present
+
+21-04-2024T16:44:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:00 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/btn_daftar' is present
+
+21-04-2024T16:45:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:00 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_name' is present
+
+21-04-2024T16:45:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:00 - [MESSAGE][PASSED] - Object 'Object Repository/Register page/TextBox_name' is present
+
+21-04-2024T16:45:01 - [MESSAGE][PASSED] - Text 'rhidayat' is set on object 'Object Repository/Register page/TextBox_name'
+
+21-04-2024T16:45:02 - [MESSAGE][PASSED] - Text 'rhidayat106@mail.com' is set on object 'Object Repository/Register page/TextBox_email'
+
+21-04-2024T16:45:02 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Register page/TextBox_password'
+
+21-04-2024T16:45:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Register page/btn_daftar' is clicked on
+
+21-04-2024T16:45:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:04 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:45:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:04 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:45:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:05 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:45:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:05 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:45:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_profile' is clicked on
+
+21-04-2024T16:45:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_accountInfo' is clicked on
+
+21-04-2024T16:45:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:06 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:45:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:07 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/TextArea_nama' is present
+
+21-04-2024T16:45:07 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:07 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/btn_submit' is present
+
+21-04-2024T16:45:07 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:07 - [MESSAGE][PASSED] - Object 'Object Repository/Account Info Page/btn_submit' is present
+
+21-04-2024T16:45:08 - [MESSAGE][PASSED] - File 'D:/data backup/desktop/binar/portofolio/web/Secondhand_Web/Asset/milkcat.PNG' sent to object: 'Object Repository/Account Info Page/btn_profilePicture'
+
+21-04-2024T16:45:08 - [MESSAGE][PASSED] - Text 'rhidayat1' is set on object 'Object Repository/Account Info Page/TextArea_nama'
+
+21-04-2024T16:45:09 - [MESSAGE][PASSED] - All options with value '4' are selected in object 'Object Repository/Account Info Page/dropdown_kota' 
+
+21-04-2024T16:45:10 - [MESSAGE][PASSED] - Text 'jalan kelengkeng' is set on object 'Object Repository/Account Info Page/TextArea_alamat'
+
+21-04-2024T16:45:10 - [MESSAGE][PASSED] - Text '0819222' is set on object 'Object Repository/Account Info Page/TextArea_noHP'
+
+21-04-2024T16:45:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Account Info Page/btn_submit' is clicked on
+
+21-04-2024T16:45:13 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:15 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:45:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:16 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:45:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:16 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/card_product' is present
+
+21-04-2024T16:45:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:16 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/card_product' is present
+
+21-04-2024T16:45:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:17 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Homepage/card_product' successfully
+
+21-04-2024T16:45:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/card_product' is clicked on
+
+21-04-2024T16:45:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:17 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/text_sellerInfo' is present
+
+21-04-2024T16:45:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:18 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/text_sellerInfo' is present
+
+21-04-2024T16:45:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:18 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is present
+
+21-04-2024T16:45:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:18 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is present
+
+21-04-2024T16:45:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is clicked on
+
+21-04-2024T16:45:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:19 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/TextBox_offer' is present
+
+21-04-2024T16:45:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:19 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/TextBox_offer' is present
+
+21-04-2024T16:45:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:20 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_kirim' is present
+
+21-04-2024T16:45:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:20 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_kirim' is present
+
+21-04-2024T16:45:21 - [MESSAGE][PASSED] - Text 'ABC' is set on object 'Object Repository/Buyer Transaction Page/TextBox_offer'
+
+21-04-2024T16:45:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:21 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_kirim' is present
+
+21-04-2024T16:45:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:21 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_kirim' is present
+
+21-04-2024T16:45:21 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:45:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:45:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:45:23 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:45:23 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:45:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:24 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:45:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:24 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:45:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:24 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:45:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:24 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:45:25 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:45:26 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:45:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:45:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:28 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:45:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:28 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:45:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:28 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:45:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:29 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:45:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_jual' is clicked on
+
+21-04-2024T16:45:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:30 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_terbitkan' is present
+
+21-04-2024T16:45:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:30 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_terbitkan' is present
+
+21-04-2024T16:45:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:30 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_preview' is present
+
+21-04-2024T16:45:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:30 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_preview' is present
+
+21-04-2024T16:45:31 - [MESSAGE][PASSED] - Text 'beat' is set on object 'Object Repository/Post Product Page/TextBox_namaProduk'
+
+21-04-2024T16:45:32 - [MESSAGE][PASSED] - Text '1000' is set on object 'Object Repository/Post Product Page/TextBox_hargaProduk'
+
+21-04-2024T16:45:32 - [MESSAGE][PASSED] - All options with value '2' are selected in object 'Object Repository/Post Product Page/select_pilihKategori' 
+
+21-04-2024T16:45:33 - [MESSAGE][PASSED] - Text 'barang bekas' is set on object 'Object Repository/Post Product Page/TextBox_deskripsiProduk'
+
+21-04-2024T16:45:33 - [MESSAGE][PASSED] - File 'D:/data backup/desktop/binar/portofolio/web/Secondhand_Web/Asset/milkcat.PNG' sent to object: 'Object Repository/Post Product Page/img_formImage'
+
+21-04-2024T16:45:34 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+21-04-2024T16:45:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Post Product Page/btn_terbitkan' is clicked on
+
+21-04-2024T16:45:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_profile' is clicked on
+
+21-04-2024T16:45:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_keluar' is clicked on
+
+21-04-2024T16:45:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:40 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_masuk' is present
+
+21-04-2024T16:45:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:41 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_masuk' is present
+
+21-04-2024T16:45:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:41 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:45:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:41 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:45:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_masuk' is clicked on
+
+21-04-2024T16:45:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:42 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:45:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:42 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:45:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:43 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:45:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:43 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:45:44 - [MESSAGE][PASSED] - Text 'rachmathidayat1094@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:45:44 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:45:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:45:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:46 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/card_product' is present
+
+21-04-2024T16:45:46 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:46 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/card_product' is present
+
+21-04-2024T16:45:46 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:47 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:45:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:47 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:45:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:47 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Homepage/card_product' successfully
+
+21-04-2024T16:45:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/card_product' is clicked on
+
+21-04-2024T16:45:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:48 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/text_sellerInfo' is present
+
+21-04-2024T16:45:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:49 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/text_sellerInfo' is present
+
+21-04-2024T16:45:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:49 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is present
+
+21-04-2024T16:45:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:49 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is present
+
+21-04-2024T16:45:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is clicked on
+
+21-04-2024T16:45:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:50 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/TextBox_offer' is present
+
+21-04-2024T16:45:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:50 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/TextBox_offer' is present
+
+21-04-2024T16:45:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:50 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_kirim' is present
+
+21-04-2024T16:45:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:51 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_kirim' is present
+
+21-04-2024T16:45:51 - [MESSAGE][PASSED] - Text '1200' is set on object 'Object Repository/Buyer Transaction Page/TextBox_offer'
+
+21-04-2024T16:45:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Buyer Transaction Page/btn_kirim' is clicked on
+
+21-04-2024T16:45:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_profile' is clicked on
+
+21-04-2024T16:45:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_keluar' is clicked on
+
+21-04-2024T16:45:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:54 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_masuk' is present
+
+21-04-2024T16:45:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:54 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_masuk' is present
+
+21-04-2024T16:45:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:54 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:45:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:55 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:45:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_masuk' is clicked on
+
+21-04-2024T16:45:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:56 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:45:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:56 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:45:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:56 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:45:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:45:57 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:45:57 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:45:58 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:45:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:45:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:00 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_notif' is present
+
+21-04-2024T16:46:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:00 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_notif' is present
+
+21-04-2024T16:46:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:00 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:46:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:01 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:46:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_notif' is clicked on
+
+21-04-2024T16:46:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/item_productOffer' is clicked on
+
+21-04-2024T16:46:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:02 - [MESSAGE][PASSED] - Object 'Object Repository/Seller Transaction Page/label_Terima' is present
+
+21-04-2024T16:46:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:02 - [MESSAGE][PASSED] - Object 'Object Repository/Seller Transaction Page/label_Terima' is present
+
+21-04-2024T16:46:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:03 - [MESSAGE][PASSED] - Object 'Object Repository/Seller Transaction Page/label_Tolak' is present
+
+21-04-2024T16:46:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:03 - [MESSAGE][PASSED] - Object 'Object Repository/Seller Transaction Page/label_Tolak' is present
+
+21-04-2024T16:46:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Seller Transaction Page/label_Terima' is clicked on
+
+21-04-2024T16:46:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Seller Transaction Page/button_Status' is clicked on
+
+21-04-2024T16:46:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Seller Transaction Page/bullet_status_finished' is clicked on
+
+21-04-2024T16:46:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Seller Transaction Page/btn_kirim_transaksi' is clicked on
+
+21-04-2024T16:46:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:05 - [MESSAGE][PASSED] - Object 'Object Repository/Seller Transaction Page/text_accepted' is present
+
+21-04-2024T16:46:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:06 - [MESSAGE][PASSED] - Object 'Object Repository/Seller Transaction Page/text_accepted' is present
+
+21-04-2024T16:46:06 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:46:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-04-2024T16:46:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-04-2024T16:46:08 - [MESSAGE][PASSED] - Browser is opened with url: 'https://secondhand.binaracademy.org/users/sign_in'
+
+21-04-2024T16:46:08 - [MESSAGE][PASSED] - Current window maximized
+
+21-04-2024T16:46:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:08 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:46:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:09 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:46:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:09 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:46:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:09 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:46:10 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:46:10 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:46:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:46:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:12 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:46:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:13 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:46:13 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:13 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:46:13 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:13 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:46:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_jual' is clicked on
+
+21-04-2024T16:46:14 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:14 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_terbitkan' is present
+
+21-04-2024T16:46:14 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:14 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_terbitkan' is present
+
+21-04-2024T16:46:14 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:15 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_preview' is present
+
+21-04-2024T16:46:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:15 - [MESSAGE][PASSED] - Object 'Object Repository/Post Product Page/btn_preview' is present
+
+21-04-2024T16:46:16 - [MESSAGE][PASSED] - Text 'beat' is set on object 'Object Repository/Post Product Page/TextBox_namaProduk'
+
+21-04-2024T16:46:16 - [MESSAGE][PASSED] - Text '1000' is set on object 'Object Repository/Post Product Page/TextBox_hargaProduk'
+
+21-04-2024T16:46:17 - [MESSAGE][PASSED] - All options with value '2' are selected in object 'Object Repository/Post Product Page/select_pilihKategori' 
+
+21-04-2024T16:46:18 - [MESSAGE][PASSED] - Text 'barang bekas' is set on object 'Object Repository/Post Product Page/TextBox_deskripsiProduk'
+
+21-04-2024T16:46:18 - [MESSAGE][PASSED] - File 'D:/data backup/desktop/binar/portofolio/web/Secondhand_Web/Asset/milkcat.PNG' sent to object: 'Object Repository/Post Product Page/img_formImage'
+
+21-04-2024T16:46:19 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+21-04-2024T16:46:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Post Product Page/btn_terbitkan' is clicked on
+
+21-04-2024T16:46:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_profile' is clicked on
+
+21-04-2024T16:46:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_keluar' is clicked on
+
+21-04-2024T16:46:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:24 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_masuk' is present
+
+21-04-2024T16:46:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:25 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_masuk' is present
+
+21-04-2024T16:46:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:25 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:46:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:25 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:46:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_masuk' is clicked on
+
+21-04-2024T16:46:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:26 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:46:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:26 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:46:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:27 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:46:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:27 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:46:28 - [MESSAGE][PASSED] - Text 'rachmathidayat1094@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:46:28 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:46:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:46:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:30 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/card_product' is present
+
+21-04-2024T16:46:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:31 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/card_product' is present
+
+21-04-2024T16:46:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:31 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:46:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:31 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_profile' is present
+
+21-04-2024T16:46:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:31 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Homepage/card_product' successfully
+
+21-04-2024T16:46:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/card_product' is clicked on
+
+21-04-2024T16:46:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:33 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/text_sellerInfo' is present
+
+21-04-2024T16:46:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:33 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/text_sellerInfo' is present
+
+21-04-2024T16:46:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:33 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is present
+
+21-04-2024T16:46:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:33 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is present
+
+21-04-2024T16:46:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Buyer Transaction Page/btn_tertarik_nego' is clicked on
+
+21-04-2024T16:46:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:34 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/TextBox_offer' is present
+
+21-04-2024T16:46:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:34 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/TextBox_offer' is present
+
+21-04-2024T16:46:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:35 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_kirim' is present
+
+21-04-2024T16:46:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:35 - [MESSAGE][PASSED] - Object 'Object Repository/Buyer Transaction Page/btn_kirim' is present
+
+21-04-2024T16:46:36 - [MESSAGE][PASSED] - Text '1200' is set on object 'Object Repository/Buyer Transaction Page/TextBox_offer'
+
+21-04-2024T16:46:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Buyer Transaction Page/btn_kirim' is clicked on
+
+21-04-2024T16:46:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_profile' is clicked on
+
+21-04-2024T16:46:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_keluar' is clicked on
+
+21-04-2024T16:46:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:38 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_masuk' is present
+
+21-04-2024T16:46:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:38 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_masuk' is present
+
+21-04-2024T16:46:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:39 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:46:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:39 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:46:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_masuk' is clicked on
+
+21-04-2024T16:46:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:40 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:46:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:40 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_email' is present
+
+21-04-2024T16:46:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:40 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:46:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:41 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/TextArea_password' is present
+
+21-04-2024T16:46:41 - [MESSAGE][PASSED] - Text 'ceklala@gmail.com' is set on object 'Object Repository/Login Page/TextArea_email'
+
+21-04-2024T16:46:42 - [MESSAGE][PASSED] - Text '02082010' is set on object 'Object Repository/Login Page/TextArea_password'
+
+21-04-2024T16:46:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/btn_loginCommit' is clicked on
+
+21-04-2024T16:46:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:44 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_notif' is present
+
+21-04-2024T16:46:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:44 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_notif' is present
+
+21-04-2024T16:46:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:44 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:46:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:45 - [MESSAGE][PASSED] - Object 'Object Repository/Homepage/btn_jual' is present
+
+21-04-2024T16:46:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/btn_notif' is clicked on
+
+21-04-2024T16:46:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/item_productOffer' is clicked on
+
+21-04-2024T16:46:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:46 - [MESSAGE][PASSED] - Object 'Object Repository/Seller Transaction Page/label_Terima' is present
+
+21-04-2024T16:46:46 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:46 - [MESSAGE][PASSED] - Object 'Object Repository/Seller Transaction Page/label_Terima' is present
+
+21-04-2024T16:46:46 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:47 - [MESSAGE][PASSED] - Object 'Object Repository/Seller Transaction Page/label_Tolak' is present
+
+21-04-2024T16:46:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:47 - [MESSAGE][PASSED] - Object 'Object Repository/Seller Transaction Page/label_Tolak' is present
+
+21-04-2024T16:46:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Seller Transaction Page/label_Tolak' is clicked on
+
+21-04-2024T16:46:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:48 - [MESSAGE][PASSED] - Object 'Object Repository/Seller Transaction Page/text_rejected' is present
+
+21-04-2024T16:46:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-04-2024T16:46:48 - [MESSAGE][PASSED] - Object 'Object Repository/Seller Transaction Page/text_rejected' is present
+
+21-04-2024T16:46:48 - [MESSAGE][PASSED] - Browser is closed
+
+21-04-2024T16:46:48 - [MESSAGE][PASSED] - Run with 'Runner' was passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[21-04-2024T16:39:17 - [TEST_SUITE][PASSED] - Cucumber tes suites: Test Cases/Cucumber/Cucumber]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Cucumber tes suites,Chrome 123.0.0.0,,,21-04-2024 16:39:17,21-04-2024 16:46:48,7m - 31.772s,PASSED
+,,,,,,,
+Test Cases/Cucumber/Cucumber,Chrome 123.0.0.0,,,21-04-2024 16:39:17,21-04-2024 16:46:48,7m - 31.460s,PASSED
+Start listener action : beforeTestCase,Chrome 123.0.0.0,,,21-04-2024 16:39:17,21-04-2024 16:39:17,0.167s,PASSED
+runWithCucumberRunner(Runner),Chrome 123.0.0.0,,,21-04-2024 16:39:17,21-04-2024 16:46:48,7m - 31.014s,PASSED
