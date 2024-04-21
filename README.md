@@ -28,22 +28,26 @@
   <h3>Create test case</h3>
   <ul>
     <li>can create test case in microsoft excel or spreadsheets application</li>
+    <li>example created <a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Test%20Case">test case</a></li>
   </ul>  
   
   <h3>Manual Testing</h3>
   <ul>
     <li>can perform manual functional and usability testing of web applications</li>
     <li>can create a bug report when finding a bug in manual testing using microsft word or google docs</li>
+    <li>example created <a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Bug%20Report">bug reports</a> </li>
   </ul>
   
   <h3>API Testing</h3>
   <ul>
-    <li>can do and make reports about API Testing using postman</li>
+    <li>can do and make reports about API testing using postman</li>
+    <li>example created <a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/API%20postman">API testing using postman</a></li>
   </ul> 
   
   <h3>Performance Testing</h3>
   <ul>
-    <li>can do and make reports about performance Testing using JMeter</li>
+    <li>can do and make reports about performance testing using JMeter</li>
+    <li>example created <a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/API%20JMeter">performance testing using JMeter</a></li>
   </ul> 
 
   <h3>GIT</h3>
