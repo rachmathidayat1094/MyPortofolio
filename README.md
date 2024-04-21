@@ -11,47 +11,16 @@
 <div id="Tools">
   
   <h2>Tools</h2>
-  <h3>Microsoft Words or google docs</h3>
   <ul>
-    <li>used to create bug reports</li>
-  </ul>
-  
-  <h3>Microsoft excel or spreadsheets</h3>
-  <ul>
-    <li>used to create test case reports</li>
-  </ul>
-  
-  <h3>Postman</h3>
-  <ul>
-    <li>used to testing for REST API</li>
-  </ul>
-
-  <h3>Jmeter</h3>
-  <ul>
-    <li>used to testing for performance application</li>
-  </ul>
-
-  <h3>Trello</h3>
-  <ul>
-    <li>used to issue tracking and project management tool for developers</li>
-  </ul>
-  <h3>Gitlab</h3>
-  <ul>
-    <li>used to manage repository</li>
-    <li>used to collaborate with teams for developed automation testing</li>
-  </ul>
-  
-  <h3>Visual Studio Code</h3>
-  <ul>
-    <li>used to push and pull data from the gitlab repository</li>
-    <li>used to edit codes </li>
-  </ul>
-
-  <h3>Katalon Studio</h3>
-  <ul>
-    <li>used to automation testing mobile or web application</li>
-  </ul>
-  
+  <li>Microsoft Words or google docs</li>
+  <li>Microsoft excel or spreadsheets</li>
+  <li>Postman</li>
+  <li>Jmeter</li>
+  <li>Trello</li>
+  <li>Gitlab</li>
+  <li>Visual Studio Code</li>
+  <li>Katalon Studio</li>
+ </ul>
 </div>
 
 <div id="Tech_Skills">
@@ -64,7 +33,7 @@
   <h3>Manual Testing</h3>
   <ul>
     <li>can perform manual functional and usability testing of web applications</li>
-    <li>can create a bug report when finding a bug in manual testing</li>
+    <li>can create a bug report when finding a bug in manual testing using microsft word or google docs</li>
   </ul>
   
   <h3>API Testing</h3>
