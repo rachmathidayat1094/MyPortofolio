@@ -59,6 +59,7 @@
   <ul>
     <li>can do automation testing mobile app or web app</li>
     <li>can make reports about automation testing using Katalon</li>
+    <li>example created <a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Secondhand_Web">Automation secondhand web</a> and <a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Secondhand_Web/Reports">cucumber and other reports such as CSV, PDF and HTML</a>  </li>
   </ul> 
 </div>
 
