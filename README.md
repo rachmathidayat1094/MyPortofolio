@@ -83,13 +83,13 @@
 
 <div id="Courses">  
 <h2>Course</h2>
-<a href="https://www.udemy.com/course/testerbootcamp/">The Complete 2024 Software Testing Bootcamp</a>
-<br> <a href="https://www.udemy.com/course/selenium-cucumber-integration/">Practical Software Testing 2023-Manual+JIRA+API+DB+Selenium</a> </br>
+<li><a href="https://www.udemy.com/course/testerbootcamp/">The Complete 2024 Software Testing Bootcamp</a></li>
+<li> <a href="https://www.udemy.com/course/selenium-cucumber-integration/">Practical Software Testing 2023-Manual+JIRA+API+DB+Selenium</a> </li>
 </div>
 
 <div id="Experience">  
 <h2>Experience</h2>
-12.2023 - 04.2024 Binar Academy
+12.2023 - 04.2024 Bootcamp Binar Academy
 </div>
 
 <div id="Projects">  
