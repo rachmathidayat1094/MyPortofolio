@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>alert_emailsudahdigunakan</name>
+   <tag></tag>
+   <elementGuidId>34714e3f-9e24-4a33-8ed7-1b699227643b</elementGuidId>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>android.widget.Toast</value>
+      <webElementGuid>b9967f73-56ed-45aa-9ce6-a07ff28f7c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>c76e3a2c-7078-4d37-b81c-4c4efb506fca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email sudah digunakan</value>
+      <webElementGuid>2f54ec0a-5cf6-4b7a-a0e1-c8e3ce7f3bfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>package</name>
+      <type>Main</type>
+      <value>com.android.settings</value>
+      <webElementGuid>0686a992-587a-4a0b-a8db-9b5a9f237c78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>displayed</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>71013b78-772a-43a6-bb4e-4fedae44efcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//hierarchy/android.widget.Toast[1]</value>
+      <webElementGuid>3ea37a3a-b0e8-4082-aa0f-52746deaa405</webElementGuid>
+   </webElementProperties>
+   <locator>//hierarchy/android.widget.Toast[1][count(. | //*[@class = 'android.widget.Toast' and @index = '1' and (@text = 'Email sudah digunakan' or . = 'Email sudah digunakan') and @package = 'com.android.settings' and @displayed = 'true']) = count(//*[@class = 'android.widget.Toast' and @index = '1' and (@text = 'Email sudah digunakan' or . = 'Email sudah digunakan') and @package = 'com.android.settings' and @displayed = 'true'])]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>
