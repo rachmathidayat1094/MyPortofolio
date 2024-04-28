@@ -8,44 +8,43 @@ I graduated from the Informatics engineering program at Muhammadiyah University 
 
 <div id="Projects">  
 <br><h2>Projects</h2>
-<a href="https://secondhand.binaracademy.org/">Secondhand Binar</a><p align="justify"> - 
-As a quality assurance, I am responsible for preparing reports such as test cases and bug reports, conducting API and performance testing, as well as performing manual and automation testing on both websites and mobile applications. Details will be explained below. </p>
+<p align="justify"><a href="https://secondhand.binaracademy.org/">Secondhand Binar</a> - As a quality assurance, I am responsible for preparing reports such as test cases and bug reports, conducting API and performance testing, as well as performing manual and automation testing on both websites and mobile applications. Details will be explained below. </p>
   
  <br><h4>1. Create test case</h4>
   <ul>
-    <li>Test case scenarios are essentially situations or conditions under which a software application or system is tested to ensure that it functions correctly and meets its requirements. These scenarios outline specific conditions, inputs, and expected outcomes to verify the behavior of the system. I use Microsoft Excel or spreadsheet as a tool to compile test case reports. </li>
+   <p align="justify"> Test case scenarios are essentially situations or conditions under which a software application or system is tested to ensure that it functions correctly and meets its requirements. These scenarios outline specific conditions, inputs, and expected outcomes to verify the behavior of the system. I use Microsoft Excel or spreadsheet as a tool to compile test case reports.  </p>
   </ul>  
   
   <h4>2. Manual Testing</h4>
   <ul>
-    <li>Manual testing refers to the process of manually examining and evaluating software applications to identify defects, bugs, or other issues. Performing bug reporting when conducting manual testing and encountering defects or bugs in secondhand web or mobile applications. I compile bug reports using Microsoft Word or Google Docs.</li>
+   <p align="justify">Manual testing refers to the process of manually examining and evaluating software applications to identify defects, bugs, or other issues. Performing bug reporting when conducting manual testing and encountering defects or bugs in secondhand web or mobile applications. I compile bug reports using Microsoft Word or Google Docs. </p>
    
   </ul>
   
   <h4>3. API Testing</h4>
   <ul>
-    <li>API testing involves verifying that the functionalities of an application programming interface (API) meet the requirements for functionality, reliability, performance, and security.In the case study of secondhand, I used Postman as a tool for API testing.</li>
+   <p align="justify"> API testing involves verifying that the functionalities of an application programming interface (API) meet the requirements for functionality, reliability, performance, and security.In the case study of secondhand, I used Postman as a tool for API testing.</p>
    
   </ul> 
   
   <h4>4. Performance Testing</h4>
   <ul>
-    <li>Evaluating the performance of the API under various conditions, such as different loads and network speeds, to ensure it meets performance requirements. To perform performance testing on both the web and mobile applications in Secondhand, I used JMeter.</li>
+   <p align="justify"> Evaluating the performance of the API under various conditions, such as different loads and network speeds, to ensure it meets performance requirements. To perform performance testing on both the web and mobile applications in Secondhand, I used JMeter.</p>
    
   </ul> 
 
   <h4>5. GIT</h4>
   <ul>
-    <li>Git is a distributed version control system (VCS) used for tracking changes in source code during software development. It's usually used for the  for development team and controlling software versions</li>
+    <p align="justify">Git is a distributed version control system (VCS) used for tracking changes in source code during software development. It's usually used for the  for development team and controlling software versions</p>
   </ul> 
   
   <h4>6. Automation testing using Katalon</h4>
   <ul>
-    <li>Automation testing refers to the use of software tools and scripts to perform testing tasks automatically, without manual intervention. In this project, I used Cucumber with Gherkin syntax and Groovy for automation on the Secondhand website. Specifically for the Secondhand mobile application, I added the Appium framework. </li>
+    <p align="justify">Automation testing refers to the use of software tools and scripts to perform testing tasks automatically, without manual intervention. In this project, I used Cucumber with Gherkin syntax and Groovy for automation on the Secondhand website. Specifically for the Secondhand mobile application, I added the Appium framework. </p>
  
   </ul> 
     <h4>7. Project Results </h4>
-  <ul> As proof that I have conducted a series of testing and reporting, I attach the results below. Please click on the document name.
+  <ul>  <p align="justify"> As proof that I have conducted a series of testing and reporting, I attach the results below. Please click on the document name. </p>
 <ol type="1">
   <li><a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Test%20Case">Test case</a></li>
   <li><a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Bug%20Report">Bug reports</a></li>
