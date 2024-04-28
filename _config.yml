@@ -1,5 +1,8 @@
 title: Rachmat Hidayat
-# logo: /assets/img/headshot_circle.png
-#description: text below image
-# show_downloads: true
+# logo: /Asset/Foto.jpg
+description: text below image
+email: your-email@domain.com
+twitter_username: jekyllrb
+github_username:  jekyll
+#show_downloads: true
 theme: jekyll-theme-minimal
