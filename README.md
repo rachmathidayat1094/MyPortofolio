@@ -59,7 +59,7 @@ As a quality assurance, I am responsible for preparing reports such as test case
 <div id="Tools">
   
   <h2>Tools</h2>
-  <ul>
+ 
 <li>Microsoft Words or google docs</li>
 <li>Microsoft excel or spreadsheets</li>
 <li>Postman</li>
@@ -68,7 +68,7 @@ As a quality assurance, I am responsible for preparing reports such as test case
 <li>Gitlab</li>
 <li>Visual Studio Code</li>
 <li>Katalon Studio</li>
- </ul>
+
 </div>
 
 <div id="Hard_Skills">
