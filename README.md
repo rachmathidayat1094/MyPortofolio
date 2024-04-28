@@ -55,8 +55,6 @@ As a quality assurance, I am responsible for preparing reports such as test case
   </ol>
   </ul>
 
-
-  
 </div>
 <div id="Tools">
   
