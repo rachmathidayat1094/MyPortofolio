@@ -2,12 +2,12 @@
 <div id="bio">
   <h2>About Me</h2>
 
-I graduated from the Informatics engineering program at Muhammadiyah University of Malang. I have been working as a data entry administration for 4 years. I am accustomed to handling large amounts of data, such as checking data completeness, ensuring accurate calculations, and inputting data into databases. I am seeking opportunities to   work in the field of Quality Assurance. I have less than 1 year of experience in the field of quality assurance and very interested in delving deeper into it. I possess good knowledge and skills such as creating test cases and bug reports, performing API testing and performance testing, conducting  both manual and automated testing. I am proficient in tools like Jmeter, Katalon, and Postman. My work experience has instilled in me a keen attention to detail, ability to work in a team, and achieve set targets. I am also someone who holds high integrity, loyalty, and dedication to a company.</br>
+I graduated from the Informatics engineering program at Muhammadiyah University of Malang. I have been working as a data entry administration for 4 years. I am accustomed to handling large amounts of data, such as checking data completeness, ensuring accurate calculations, and inputting data into databases. I am seeking opportunities to   work in the field of Quality Assurance. I have less than 1 year of experience in the field of quality assurance and very interested in delving deeper into it. I possess good knowledge and skills such as creating test cases and bug reports, performing API testing and performance testing, conducting  both manual and automated testing. I am proficient in tools like Jmeter, Katalon, and Postman. My work experience has instilled in me a keen attention to detail, ability to work in a team, and achieve set targets. I am also someone who holds high integrity, loyalty, and dedication to a company.
   
 </div>
 
 <div id="Projects">  
-<h2>Projects</h2>
+<br><h2>Projects</h2></br>
 <a href="https://secondhand.binaracademy.org/">Secondhand Binar</a> - 
 As a quality assurance, I am responsible for preparing reports such as test cases and bug reports, conducting API and performance testing, as well as performing manual and automation testing on both websites and mobile applications. Details will be explained below.
   
