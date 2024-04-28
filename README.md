@@ -11,7 +11,7 @@ I graduated from the Informatics engineering program at Muhammadiyah University 
 <a href="https://secondhand.binaracademy.org/">Secondhand Binar</a> - 
 As a quality assurance, I am responsible for preparing reports such as test cases and bug reports, conducting API and performance testing, as well as performing manual and automation testing on both websites and mobile applications. Details will be explained below.
   
-  <h4>1. Create test case</h4>
+ <br> <h4>1. Create test case</h4>
   <ul>
     <li>Test case scenarios are essentially situations or conditions under which a software application or system is tested to ensure that it functions correctly and meets its requirements. These scenarios outline specific conditions, inputs, and expected outcomes to verify the behavior of the system. I use Microsoft Excel or spreadsheet as a tool to compile test case reports. </li>
   </ul>  
@@ -104,8 +104,8 @@ As a quality assurance, I am responsible for preparing reports such as test case
  <li>08.2013 - 07.2019 Muhammadiyah Malang University, Bachelor - Informatics Engineering</li>
 </div>
 
-<br><div id="Courses">  
-<h2>Course</h2>
+<div id="Courses">  
+<br><h2>Course</h2>
 <li><a href="https://www.udemy.com/course/testerbootcamp/">The Complete 2024 Software Testing Bootcamp</a></li>
 <li> <a href="https://www.udemy.com/course/selenium-cucumber-integration/">Practical Software Testing 2023-Manual+JIRA+API+DB+Selenium</a> </li>
 </div>
