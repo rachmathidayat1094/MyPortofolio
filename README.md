@@ -101,8 +101,8 @@ As a quality assurance, I am responsible for preparing reports such as test case
 <div id="Education">
   
 <h2>Education</h2>
-  12.2023 - 04.2024 Bootcamp Binar Academy
-  <br>08.2013 - 07.2019 Muhammadiyah Malang University, Bachelor - Informatics Engineering</br>
+ <li>12.2023 - 04.2024 Bootcamp Binar Academy</li>
+ <li>08.2013 - 07.2019 Muhammadiyah Malang University, Bachelor - Informatics Engineering</li>
 </div>
 
 <div id="Courses">  
