@@ -7,7 +7,7 @@ I graduated from the Informatics engineering program at Muhammadiyah University 
 </div>
 
 <div id="Projects">  
-<br><h2>Projects</h2></br>
+<br><h2>Projects</h2>
 <a href="https://secondhand.binaracademy.org/">Secondhand Binar</a> - 
 As a quality assurance, I am responsible for preparing reports such as test cases and bug reports, conducting API and performance testing, as well as performing manual and automation testing on both websites and mobile applications. Details will be explained below.
   
@@ -59,7 +59,7 @@ As a quality assurance, I am responsible for preparing reports such as test case
 </div>
 <div id="Tools">
   
-  <h2>Tools</h2>
+  <br><h2>Tools</h2>
  
 <li>Microsoft Words or google docs</li>
 <li>Microsoft excel or spreadsheets</li>
@@ -73,7 +73,7 @@ As a quality assurance, I am responsible for preparing reports such as test case
 </div>
 
 <div id="Hard_Skills">
-  <h2>Hard Skills</h2>
+  <br><h2>Hard Skills</h2>
 <li>Test Case reporting</li>
 <li>Bug Reporting</li>
 <li>API Testing</li>
@@ -88,7 +88,7 @@ As a quality assurance, I am responsible for preparing reports such as test case
 
 <div id="Soft_Skills">
   
-<h2>Soft Skills</h2>
+<br><h2>Soft Skills</h2>
 <li>Work as a team</li>
 <li>Fast-learner</li>
 <li>High integrity, loyalty, and dedication for a company</li>
@@ -99,12 +99,12 @@ As a quality assurance, I am responsible for preparing reports such as test case
 
 <div id="Education">
   
-<h2>Education</h2>
+<br><h2>Education</h2>
  <li>12.2023 - 04.2024 Bootcamp Binar Academy</li>
  <li>08.2013 - 07.2019 Muhammadiyah Malang University, Bachelor - Informatics Engineering</li>
 </div>
 
-<div id="Courses">  
+<br><div id="Courses">  
 <h2>Course</h2>
 <li><a href="https://www.udemy.com/course/testerbootcamp/">The Complete 2024 Software Testing Bootcamp</a></li>
 <li> <a href="https://www.udemy.com/course/selenium-cucumber-integration/">Practical Software Testing 2023-Manual+JIRA+API+DB+Selenium</a> </li>
