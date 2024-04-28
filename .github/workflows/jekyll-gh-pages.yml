@@ -37,15 +37,6 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-title: Adding a Gallery to Jekyll
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  This website is an example on how to use my gallery blog post to add a
-  photo gallery to your blog/website.
-baseurl: "/jekyll-image-gallery-example" # the subpath of your site, e.g. /blog
-url: "//opieters.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 
 
   # Deployment job
