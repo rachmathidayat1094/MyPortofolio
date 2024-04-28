@@ -45,7 +45,7 @@ As a quality assurance, I am responsible for preparing reports such as test case
   </ul> 
     <h4>7. Project Results </h4>
   <ul> As proof that I have conducted a series of testing and reporting, I attach the results below. Please click on the document name.
-<ol type="1">
+<ol>
   <li><a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Test%20Case">Test case</li>
   <li><a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Bug%20Report">Bug reports</a></li>
   <li><a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/API%20postman">API testing using postman</a></li>
