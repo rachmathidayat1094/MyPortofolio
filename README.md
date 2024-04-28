@@ -45,14 +45,14 @@ As a quality assurance, I am responsible for preparing reports such as test case
   </ul> 
     <h4>7. Project Results </h4>
   <ul> As proof that I have conducted a series of testing and reporting, I attach the results below. Please click on the document name.
-
-  <li><a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Test%20Case">Test case</li>
+<ol type="1">
+  <li><a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Test%20Case">Test case</a></li>
   <li><a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Bug%20Report">Bug reports</a></li>
   <li><a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/API%20postman">API testing using postman</a></li>
   <li><a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/API%20JMeter">Performance testing using JMeter</a></li>
   <li><a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Secondhand_Web">Automation secondhand web</a> and <a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Secondhand_Web/Reports">cucumber and other reports such as CSV, PDF and HTML</a> </li>
   <li><a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Secondhand_Mobile">Automation secondhand mobile</a> and <a href="https://github.com/rachmathidayat1094/MyPortofolio/tree/main/Secondhand_Mobile/Reports">cucumber and other reports such as CSV, PDF and HTML</a></li>
-
+  </ol>
   </ul>
 
 
